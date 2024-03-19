@@ -66,9 +66,8 @@ RegisterNumber:212223040243<br>
 ![Screenshot 2024-03-19 083659](https://github.com/VineelaShaik/HALF_ADDER_SUBTRACTOR/assets/144340862/11447190-fb93-472b-b088-0a74698170a0)
 
 **RTL Schematic**
+<br>
 ![Screenshot 2024-03-19 083650](https://github.com/VineelaShaik/HALF_ADDER_SUBTRACTOR/assets/144340862/30d3f0a8-d2fa-4656-ab7d-ececa69a7949)
-
-
 **Output/TIMING Waveform**
 ![Screenshot 2024-03-19 084805](https://github.com/VineelaShaik/HALF_ADDER_SUBTRACTOR/assets/144340862/43b764a9-6586-4e14-ae4f-9fba38a80f9f)
 
